@@ -1,0 +1,110 @@
+#profile
+{
+   height:160px;
+   width:160px;
+   display:block;
+   border: medium double black;
+   background-color:white;
+   position: relative;
+   bottom:8em;
+   left:1.5em;
+}
+.abpic
+{
+   height:40px;
+   width:40px;
+   border: thin solid black;
+   margin-left:5px;
+   margin-top:5px;
+   border-radius:2px;
+}
+#back
+{
+   background-color: rgb(233,234,237);
+   padding:0;
+   margin:0;
+}
+#banner
+{
+   display:inline-block;
+   width:80%;
+   height:200px;
+   background-color:rgb(59,89,152);
+}
+#name
+{
+   font-family:Tahoma;
+   position:relative;
+   font-size:1.5em;
+   text-align:center;
+   bottom:9em;
+   right:10.5em;
+   color:white;
+}
+#about
+{
+   font-family:Tahoma;
+   color:rgb(59, 89, 152);
+   border: 1px solid black;
+   background-color:white;
+   width:90%;
+   border-radius:5px;
+}
+.status
+{
+   font-family:Tahoma;
+   border: 1px solid black;
+   width:90%;
+   background-color:white;
+   border-radius:4px;
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+}
+.highlight
+{
+   font-family:Tahoma;
+   color:grey;
+   position:relative;
+   left:5px;
+}
+#si1
+{
+   width:20%;
+   float:left;
+   position:relative;
+   top:-140px;
+}
+#si2
+{
+   width:60%;
+   position:relative;
+   top:-140px;
+   margin-left:auto;
+   margin-right:auto;
+}
+.highname
+{
+   font-family:Tahoma;
+   color:rgb(59, 89, 152);
+   position:relative;
+   bottom:15px;
+}
+.stats
+{
+   font-family:Tahoma;
+   position:relative;
+   left:5px;
+}
+#si3
+{
+   width:20%;
+   display:block;
+   float:right;
+}
+.ads
+{
+   font-family:Tahoma;
+   color:grey;
+   border-bottom: 1.5px solid grey
+}  
